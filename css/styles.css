@@ -42,3 +42,9 @@
     font-size: 14px;
     font-family: 'Seymour One', sans-serif;
 }
+
+.feature-icon {
+    color: rgb(106, 58, 236);
+    margin-bottom: 30px;
+    font-size: 70px;
+}
