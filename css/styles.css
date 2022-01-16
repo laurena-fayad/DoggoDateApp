@@ -23,3 +23,22 @@
     left: 50%;
     padding-top: 3%;
 }
+
+
+/* Navigation Bar */
+  
+.navbar-brand {
+    font-family: 'Seymour One', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+  
+.nav-item {
+    margin-right: 800px;
+    padding: 25%;
+}
+  
+.nav-link {
+    font-size: 14px;
+    font-family: 'Seymour One', sans-serif;
+}
