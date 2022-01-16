@@ -43,6 +43,13 @@
     font-family: 'Seymour One', sans-serif;
 }
 
+
+#features {
+    position: relative;
+    text-align: center;
+    padding: 3% 15%;
+}
+
 .feature-icon {
     color: rgb(106, 58, 236);
     margin-bottom: 30px;
@@ -60,3 +67,6 @@
     font-family: 'Comfortaa', cursive;
     line-height: 1.5;
 }
+
+
+  
