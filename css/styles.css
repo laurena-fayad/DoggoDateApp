@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Raleway:ital,wght@0,100;1,100&family=Seymour+One&display=swap');
+
 .purple-bg {
     background-color: rgb(106, 58, 236);
 }
@@ -5,4 +7,11 @@
 .white-bg {
     background-color: white;
     position: relative;
+}
+
+.slogan {
+    padding-top: 15%;
+    color: white;
+    font-family: 'Seymour One', sans-serif;
+    font-size: 45px;
 }
