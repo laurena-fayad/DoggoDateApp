@@ -224,4 +224,8 @@
     .top-buttons{
         text-align: center;
     }
+
+    .testimonial-icon-left{
+        visibility: hidden;
+    }
 }
