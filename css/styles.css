@@ -87,7 +87,7 @@
     font-family: 'Comfortaa', cursive;
     font-style: italic;
   }
-  
+
 .testimonial-location {
     color: white;
     font-family: "Raleway";
@@ -108,4 +108,38 @@
     width: 8%;
     max-height: 200px;
     margin: 20px 20px 50px;
+}
+
+#pricing {
+    padding: 70px;
+    text-align: center;
+}
+
+.plan-title {
+    font-size: 48px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bolder;
+}
+
+.plan-type{
+    font-family: 'Comfortaa', cursive;
+    font-size: 28px;
+}
+
+.plan-text {
+    font-size: 25px;
+    font-style: italic;
+}
+
+.price {
+    line-height: 1.5;
+    font-size: 48px;
+}
+  
+.pricing-column {
+    padding: 5% 3%;
+}
+
+.plan-details{
+    font-size: 20px;
 }
