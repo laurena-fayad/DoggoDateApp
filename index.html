@@ -75,14 +75,30 @@
   <!-- Testimonials -->
 
   <section class="purple-bg" id="testimonials">
+    <div id="carousel-testimonials" class="carousel slide" data-ride="false">
+      <div class="carousel-inner">
 
-    <h2>Quote 1. Woof.</h2>
-    <img src="images/dog-img.jpg" >
-    <em>Beirut, Lebanon</em>
+        <div class="container-fluid carousel-item active">
+          <p class="testimonial-text">Quote 1. Woof.</p>
+          <img class="testimonial-image" src="images/dog-img.jpg" alt="Dog pic"/>
+          <em>Beirut, Lebanon</em>
+        </div>
 
-    <h2>Quote 2. Woof.</h2>
-    <img src="images/dog-img.jpg" >
-    <em>Beirut, Lebanon</em>
+        <div class="container-fluid carousel-item">
+          <p class="testimonial-text">Quote 2. Woof.</p>
+          <img class="testimonial-image" src="images/dog-img.jpg" alt="Dog pic">
+          <em>Beirut, Lebanon</em>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carousel-testimonials" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carousel-testimonials" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
 
   </section>
 

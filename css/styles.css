@@ -9,6 +9,10 @@
     position: relative;
 }
 
+.container-fluid{
+    padding: 7% 15%;
+}
+
 .slogan {
     padding-top: 15%;
     color: white;
