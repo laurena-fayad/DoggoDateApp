@@ -115,6 +115,7 @@
 #press{
     text-align: center;
     border-top: hidden;
+    border-width: 0;
 }
   
 .press-logo {
