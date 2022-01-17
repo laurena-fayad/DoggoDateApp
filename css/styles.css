@@ -114,6 +114,7 @@
 /* Press Properties */
 #press{
     text-align: center;
+    border-top: none;
 }
   
 .press-logo {
