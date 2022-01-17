@@ -13,6 +13,10 @@
     padding: 7% 15%;
 }
 
+#title .container-fluid{
+    padding: 4% 15% 8%;
+}
+
 .slogan {
     padding-top: 15%;
     color: white;
