@@ -80,6 +80,26 @@
     text-align: center;
 }
 
+.testimonial-text {
+    font-size: 28px;
+    line-height: 1.5;
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-style: italic;
+  }
+  
+.testimonial-location {
+    color: white;
+    font-family: "Raleway";
+    font-size: 22px;
+}
+
+.testimonial-image {
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
 #press{
     text-align: center;
 }
