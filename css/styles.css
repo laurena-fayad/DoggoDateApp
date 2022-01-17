@@ -150,3 +150,12 @@
     font-family: 'Seymour One', sans-serif;
     text-align: center;
 }
+
+.cta-msg2 {
+    font-size: 26px;
+    color: white;
+    font-style: italic;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300px;
+    text-align: center;
+}
