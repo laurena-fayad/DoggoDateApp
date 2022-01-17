@@ -183,3 +183,33 @@ body{
     text-align: center;
     padding-bottom: 2%;
 }
+
+@media (max-width: 1028px) {
+    .title-image{
+        transform: rotate(0);
+        position: static;
+        width: 60%;
+        margin: 0 25%;
+    }
+
+    .slogan{
+        text-align: center;
+    }
+
+    .plan-details {
+        font-size: 25px;
+    }
+ 
+    .cta-msg1{
+        text-align: center;
+    }
+
+    .cta-msg2{
+        text-align: center;
+    }
+
+    .top-buttons{
+        text-align: center;
+    }
+
+}
