@@ -143,3 +143,10 @@
 .plan-details{
     font-size: 20px;
 }
+
+.cta-msg1 {
+    font-size: 38px;
+    color: white;
+    font-family: 'Seymour One', sans-serif;
+    text-align: center;
+}
