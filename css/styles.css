@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Raleway:ital,wght@0,100;1,100&family=Seymour+One&display=swap');
 
+body{
+    text-align: center;
+}
+
 .purple-bg {
     background-color: rgb(106, 58, 236);
 }
@@ -142,6 +146,11 @@
 
 .plan-details{
     font-size: 20px;
+}
+
+#cta .container-fluid{
+    text-align: center;
+    padding: 5%
 }
 
 .cta-msg1 {
