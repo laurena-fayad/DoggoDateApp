@@ -228,4 +228,8 @@
     .testimonial-icon-left{
         visibility: hidden;
     }
+
+    .feature-text {
+        margin-bottom:10%;
+    }
 }
