@@ -29,14 +29,17 @@
 
 /* Buttons Properties*/
 
-.download-button{
-    margin: 3%;
+.top-btn {
+    margin-top: 3%;
 }
 
 .btn-top-margin{
     margin-top: 12%;
 }
 
+.bottom-btn {
+    margin: 3%;
+}
 
 /* Title Properties */
 #title .container-fluid{
@@ -274,7 +277,7 @@
         text-align: center;
     }
 
-    .top-buttons{
+    .top-btn{
         text-align: center;
     }
 
