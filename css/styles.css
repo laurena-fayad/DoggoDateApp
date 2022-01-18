@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Poppins:ital,wght@0,800;0,900;1,800;1,900&family=Raleway:ital,wght@0,100;1,100&family=Seymour+One&display=swap');
 
+/* To make some text non-selectable*/
+.noselect {
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none; 
+    -khtml-user-select: none;
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none; 
+}
+
 /*Background coloring*/
 
 .purple-bg {
