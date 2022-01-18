@@ -246,9 +246,24 @@
         font-size: 32px;
     }
 
+    .download-button{
+        margin-right: 2%;
+    }
   
+    .plan-title {
+        font-size: 30px;
+    }
+    
     .plan-details {
-        font-size: 25px;
+        font-size: 20px;
+    }
+
+    .plan-text {
+        font-size: 20px;
+    }
+
+    .price {
+        font-size:35px;
     }
  
     .cta-msg1{
