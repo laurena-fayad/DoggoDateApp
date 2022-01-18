@@ -27,6 +27,13 @@
     padding: 7% 15%;
 }
 
+/* Buttons Properties*/
+
+.download-button{
+    margin: 3%;
+}
+
+
 /* Title Properties */
 #title .container-fluid{
     padding: 4% 15% 8%;
@@ -179,13 +186,6 @@
     margin-right: 3%;
 }
 
-.button-margin-top{
-    margin-top: 6%;
-}
-
-.button-space{
-    margin-right: 5%;
-}
 
 /* CTA Properties */
 
