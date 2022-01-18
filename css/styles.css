@@ -179,8 +179,12 @@
     margin-right: 3%;
 }
 
-.button-margin{
-    margin-top: 12%;
+.button-margin-top{
+    margin-top: 6%;
+}
+
+.button-space{
+    margin-right: 5%;
 }
 
 /* CTA Properties */
@@ -223,7 +227,7 @@
 }
 
 /* Media Quering */
-@media (max-width: 1080px) {
+@media (max-width: 1280px) {
 
     .title-image{
         transform: rotate(0);
