@@ -33,6 +33,10 @@
     margin: 3%;
 }
 
+.btn-top-margin{
+    margin-top: 12%;
+}
+
 
 /* Title Properties */
 #title .container-fluid{
@@ -180,6 +184,7 @@
 
 .plan-details{
     font-size: 20px;
+    margin-top: 3%;
 }
 
 .price-icon {
