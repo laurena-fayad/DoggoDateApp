@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Raleway:ital,wght@0,100;1,100&family=Seymour+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Poppins:wght@800;900&family=Raleway:ital,wght@0,100;1,100&family=Seymour+One&display=swap');
 
 /*Background coloring*/
+
 .purple-bg {
     background-color: rgb(106, 58, 236);
 }
@@ -9,6 +10,8 @@
     background-color: white;
     position: relative;
 }
+
+/*Container padding*/
 
 .container-fluid{
     padding: 7% 15%;
@@ -39,7 +42,7 @@
   
 .navbar-brand {
     font-family: 'Seymour One', sans-serif;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
 }
   
@@ -49,11 +52,12 @@
 }
   
 .nav-link {
-    font-size: 14px;
-    font-family: 'Seymour One', sans-serif;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* Features Properties */
+
 #features {
     position: relative;
     text-align: center;
@@ -79,6 +83,7 @@
 }
 
 /* Testimonials Properties */
+
 .carousel-item{
     text-align: center;
 }
@@ -112,6 +117,7 @@
 }
 
 /* Press Properties */
+
 #press{
     text-align: center;
 }
@@ -124,6 +130,7 @@
 }
 
 /* Pricing Table Properties */
+
 #pricing {
     padding: 70px;
     text-align: center;
@@ -163,15 +170,16 @@
 }
 
 /* CTA Properties */
+
 #cta .container-fluid{
     text-align: center;
     padding: 5%
 }
 
 .cta-msg1 {
-    font-size: 38px;
+    font-size: 48px;
     color: white;
-    font-family: 'Seymour One', sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 
