@@ -223,16 +223,18 @@
 }
 
 /* Media Quering */
-@media (max-width: 1028px) {
+@media (max-width: 1080px) {
+
     .title-image{
         transform: rotate(0);
         position: static;
         width: 60%;
-        margin: 0 25%;
+        margin: 0% 25%;
     }
 
     .slogan{
         text-align: center;
+        font-size: 32px;
     }
 
   
